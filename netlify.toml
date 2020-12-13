@@ -3,4 +3,3 @@
   command = “CI= yarn run build”
   
   publish = "build/"
-  functions="functions/"
